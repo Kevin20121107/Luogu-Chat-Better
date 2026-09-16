@@ -25,17 +25,12 @@ At the very beginning of the script, there is a designated block of code (alread
 | `ownTextColor` | string | `"#000000"` | Text color of your messages |
 | `enableOwnRadius` | bool | `true` | Whether to apply rounded corners to your messages |
 | `enableOtherColor` | bool | `false` | Whether to enable color customization for the other person's messages |
-| `otherBgColor` | string | `""` (Luogu default) | Background color of the other person's message bubbles |
-| `otherTextColor` | string | `""` (Luogu default) | Text color of the other person's messages |
+| `otherBgColor` | string | `""` (default) | Background color of the other person's message bubbles |
+| `otherTextColor` | string | `""` (default) | Text color of the other person's messages |
 | `enableOtherRadius` | bool | `true` | Whether to apply rounded corners to the other person's messages |
 | `enableQuoteReply` | bool | `true` | Whether to enable the click-to-pop-up-menu function |
 | `quoteSeparator` | string | `" ||"` | Separator inserted before the input box when quoting |
 
----
+### End
 
-## Installation
-
-You can install it using the following methods:
-
-1. [https://github.com/Kevin20121107/Luogu-Chat-Better.git](https://github.com/Kevin20121107/Luogu-Chat-Better.git)
-2. [https://www.luogu.com.cn/paste/nm978jz9](https://www.luogu.com.cn/paste/nm978jz9) (Backup)
+Thanks for use LGCB script,if you find a problem,please create an issue.
