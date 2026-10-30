@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Luogu Chat Better!
 // @namespace http://tampermonkey.net/
-// @version 5.3
+// @version 6.3
 // @author Forever_Rain
 // @description 洛谷私信优化
 // @icon https://cdn.luogu.com.cn/upload/usericon/3.png
